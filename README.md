@@ -1,3 +1,1 @@
-SQLite + Android - Complete Tutorial
-
-Note: Video tutorials will be available on my Youtube channel (Stevdza-San) soon.
+Achmad Abiel Bahyria - 24060119130087
