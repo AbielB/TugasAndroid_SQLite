@@ -1,1 +1,3 @@
-Achmad Abiel Bahyria - 24060119130087
+SQLite + Android - Complete Tutorial
+
+Note: Video tutorials will be available on my Youtube channel (Stevdza-San) soon.

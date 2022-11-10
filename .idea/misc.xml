@@ -8,10 +8,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/kuliah/Semester 7/Pengembangan Berbasis Platform/Android Studio/DB_git/SQLite_Android-Complete_Tutorial/app/src/main/res/drawable/ic_add.xml" value="0.1" />
         <entry key="..\:/kuliah/Semester 7/Pengembangan Berbasis Platform/Android Studio/DB_git/SQLite_Android-Complete_Tutorial/app/src/main/res/layout/activity_add.xml" value="0.25" />
         <entry key="..\:/kuliah/Semester 7/Pengembangan Berbasis Platform/Android Studio/DB_git/SQLite_Android-Complete_Tutorial/app/src/main/res/layout/activity_main.xml" value="0.1453125" />
-        <entry key="..\:/kuliah/Semester 7/Pengembangan Berbasis Platform/Android Studio/DB_git/SQLite_Android-Complete_Tutorial/app/src/main/res/layout/activity_update.xml" value="0.335" />
-        <entry key="..\:/kuliah/Semester 7/Pengembangan Berbasis Platform/Android Studio/DB_git/SQLite_Android-Complete_Tutorial/app/src/main/res/layout/my_row.xml" value="0.25" />
+        <entry key="..\:/kuliah/Semester 7/Pengembangan Berbasis Platform/Android Studio/DB_git/SQLite_Android-Complete_Tutorial/app/src/main/res/layout/activity_update.xml" value="0.1" />
+        <entry key="..\:/kuliah/Semester 7/Pengembangan Berbasis Platform/Android Studio/DB_git/SQLite_Android-Complete_Tutorial/app/src/main/res/layout/my_row.xml" value="0.125" />
+        <entry key="..\:/kuliah/Semester 7/Pengembangan Berbasis Platform/Android Studio/DB_test/SQLite_Android-Complete_Tutorial/app/src/main/res/layout/my_row.xml" value="0.1" />
       </map>
     </option>
   </component>
